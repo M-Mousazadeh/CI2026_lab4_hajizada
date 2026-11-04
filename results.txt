@@ -1,0 +1,23 @@
+
+p01: SOLVED
+Moves: 8; expanded: 113; discovered: 144; time: 0.002s
+Sequence: 2:down, 1:down, 5:right, A:right, 6:up, 4:left, A:down, A:down
+
+p02: SOLVED
+Moves: 18; expanded: 252; discovered: 263; time: 0.007s
+Sequence: 10:right, 1:down, 5:right, A:down, 4:left, 4:left, 6:up, 5:up, 6:left, 5:up, A:right, 1:up, 1:up, 10:left, 10:up, 9:left, 9:left, A:down
+
+p03: SOLVED
+Moves: 45; expanded: 2141; discovered: 2153; time: 0.123s
+Sequence: 1:down, 3:down, 2:right, C:left, 3:down, 5:right, A:right, B:up, B:up, C:left, 6:up, 1:right, C:down, 6:left, 6:left, A:down, 2:left, 2:left, 5:up, 3:up, 5:left, 3:up, A:right, 2:down, 2:down, B:right, 6:up, 2:left, 6:up, 2:up, C:up, 1:left, 1:left, 4:left, 4:left, A:down, 3:down, 5:right, B:right, 2:right, 2:up, C:up, 1:up, 4:left, A:left
+
+p04: SOLVED
+Moves: 116; expanded: 24009; discovered: 24084; time: 0.879s
+Sequence: 1:right, 4:left, D:down, E:down, F:left, 3:up, 3:right, F:right, D:up, 1:left, 4:left, E:left, 3:down, 3:down, F:right, 2:up, 4:up, 1:right, D:down, 2:left, F:left, C:down, C:down, A:right, B:right, 2:up, 2:up, D:up, 1:left, D:up, 4:left, E:left, 3:left, 3:up, C:down, F:right, E:up, 1:right, 1:right, E:down, B:down, 2:right, D:up, 4:up, E:left, B:down, B:down, 4:right, 4:up, F:left, C:up, 1:right, 3:down, F:left, C:left, 1:up, 3:right, C:down, F:right, D:down, 2:left, 4:up, F:right, B:up, B:up, C:left, 1:left, 1:down, F:down, A:down, 4:right, 2:right, 4:right, 2:right, B:up, C:up, 1:left, 3:left, D:up, E:up, 1:left, 3:left, F:down, A:down, 2:down, 2:right, B:right, C:up, C:up, A:left, 2:down, 2:down, 4:down, 4:down, B:right, C:right, D:right, E:up, E:up, A:left, 2:left, 2:up, F:up, 3:right, 1:right, 3:right, 1:right, A:down, 2:left, 2:left, 4:left, 4:left, F:up, 1:up, 1:right, A:right
+
+p05: SOLVED
+Moves: 179; expanded: 40087; discovered: 40600; time: 1.426s
+Sequence: 2:left, E:left, C:down, 3:down, 1:right, 4:right, F:left, D:down, B:down, 1:right, 4:right, A:up, E:up, 2:up, F:left, C:down, 3:down, 4:down, 1:left, B:up, 3:right, C:up, F:right, 2:down, E:down, A:down, 1:left, 1:left, 4:up, 4:left, C:up, C:up, 3:left, 3:down, B:down, C:down, 4:right, 1:right, 4:right, 1:right, A:up, E:up, 2:up, 2:right, F:left, 3:down, 2:right, E:down, A:down, 1:left, 1:left, 4:left, 4:left, B:up, C:up, 2:up, 3:up, D:up, F:right, F:right, E:down, 3:left, 2:down, 3:left, 2:left, C:down, 4:right, 1:right, C:down, 4:down, 1:right, A:up, 2:up, 2:left, C:left, D:left, B:down, 1:right, 4:up, D:up, F:up, E:right, 3:down, 2:down, E:right, 3:right, 2:down, C:left, 3:up, 3:up, E:left, F:left, B:down, B:down, D:right, 4:down, 4:down, A:right, C:up, C:up, F:left, 4:down, 3:right, F:up, 2:up, 4:left, E:left, B:left, D:down, D:down, 3:right, 3:up, F:right, 2:up, F:right, 2:right, C:down, C:down, A:left, 1:left, 3:up, F:up, B:up, D:up, E:right, C:down, E:right, 4:down, 2:down, A:down, 1:left, 1:left, 3:left, 3:left, F:up, B:up, 2:right, 4:up, E:left, D:down, B:right, A:right, 1:down, 3:left, C:up, E:left, 2:down, 4:right, F:left, B:up, D:up, 2:right, 4:down, A:down, 1:right, 3:down, F:left, B:left, D:up, D:up, A:right, 1:down, 3:right, C:up, E:up, 4:left, 2:left, 4:left, 2:left, A:down, 1:right, 1:right, B:down, F:right, C:up, E:up, 2:up, 2:left, A:left
+
+p06: NO SOLUTION
+Moves: -; expanded: 833; discovered: 833; time: 0.020s
