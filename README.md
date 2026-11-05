@@ -2,6 +2,8 @@
 
 This solution reads the six benchmark boards from `klotski_problems.txt` and searches for a sequence of **single-cell slides** that moves the target piece A to the bottom exit.
 
+# The video recording for the lab: [https://drive.google.com/file/d/1aqGXuKUdycUXffZvi9WSWsEOdoDN-2zt/view?usp=sharing](https://drive.google.com/file/d/1aqGXuKUdycUXffZvi9WSWsEOdoDN-2zt/view?usp=sharing)
+
 ## Run
 
 Requires Python 3.10+ and no third-party packages.
